@@ -1,1 +1,5 @@
 gs_large_scene_test_1_shs.bytes filter=lfs diff=lfs merge=lfs -text
+projects\GaussianExample-HDRP\Assets\Material\*.jpg filter=lfs diff=lfs merge=lfs -text
+projects\GaussianExample-HDRP\Assets\Prefab\*.fbx filter=lfs diff=lfs merge=lfs -text
+projects\GaussianExample-HDRP\Assets\texture\*.jpg filter=lfs diff=lfs merge=lfs -text
+projects\GaussianExample-HDRP\Assets\texture\*.fbx filter=lfs diff=lfs merge=lfs -text
